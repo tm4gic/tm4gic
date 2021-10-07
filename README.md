@@ -7,7 +7,7 @@
 
 <br />
 
-<!--
+
 My name is Tony Bai and I am a Data Scientist with a background in finance 🏦. I am currently based in NYC
 
 
