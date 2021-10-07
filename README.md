@@ -2,8 +2,14 @@
 <a href="https://www.linkedin.com/in/bai-bai-tony">
   <img align="left" alt="Tony's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
+
 <!--
-**tm4gic/tm4gic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tony Bai and I am a Data Scientist with a background in finance 🏦. I am currently based in NYC
+
 
 Here are some ideas to get you started:
 
