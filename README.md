@@ -1,8 +1,8 @@
-<a href="https://www.linkedin.com/in/bai-bai-tony">
-  <img align="left" alt="Tony's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<img src="https://github.com/bai-bai-tony.png" align="right" width="120" style="border-radius:50%" />
 
-<br />
+## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bai-bai-tony)
 
 Hi, I'm Tony Bai — based in NYC, working in Payments Risk Analytics at Coinbase. My focus is ACH fraud investigation, control gap analysis, and building data-driven tools for risk operations. Before fintech, I spent time in corporate banking and BNPL risk strategy. Former NCAA basketball athlete 🏀 — still bring that tenacity and team-first mindset to everything I build.
 
@@ -10,8 +10,9 @@ Hi, I'm Tony Bai — based in NYC, working in Payments Risk Analytics at Coinbas
 - Python 🐍 / Pandas 🐼 / NumPy
 - SQL & Snowflake 🗒️
 - Scikit-Learn / ML workflows ⚙️
-- Claude Code, MCP servers, and n8n for AI-powered automation
+- Cursor, Claude Code, MCP servers, and n8n for AI-powered automation
 - OPA / Rego for fraud detection rules
+- 
 
 ### Currently exploring
 - Agentic workflows
