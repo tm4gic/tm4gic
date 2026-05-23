@@ -1,42 +1,26 @@
-
 <a href="https://www.linkedin.com/in/bai-bai-tony">
-  <img align="left" alt="Tony's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Tony's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=bai-bai-tony.bai-bai-tony)
 
 <br />
 
+Hi, I'm Tony Bai — based in NYC, working in Payments Risk Analytics at Coinbase. My focus is ACH fraud investigation, control gap analysis, and building data-driven tools for risk operations. Before fintech, I spent time in corporate banking and BNPL risk strategy. Former NCAA basketball athlete 🏀 — still bring that tenacity and team-first mindset to everything I build.
 
-My name is Tony Bai and I am a Data Scientist with a background in finance 🏦. I am currently based in NYC and was previously an Underwriter for large corporate companies (mainly focused in Retail and Industrials). As a former NCAA basketball athlete 🏀 I look to bring tenacity and teamwork to my next work destination.
+### Current toolkit
+- Python 🐍 / Pandas 🐼 / NumPy
+- SQL & Snowflake 🗒️
+- Scikit-Learn / ML workflows ⚙️
+- Claude Code, MCP servers, and n8n for AI-powered automation
+- OPA / Rego for fraud detection rules
 
-Some of my technical skills include:
+### Currently exploring
+- Agentic workflows
+- Data Science Projects
+- Quantitative / algorithmic trading strategies (for fun)
 
-* Python 🐍
-* Pandas 🐼
-* SQL 🗒️
-* NumPy 💯
-* Scikit-Learn ⚙️
- 
+### Languages
+🇺🇸 English · 🇫🇷 French · 🇨🇳 Mandarin
 
-### Skills I am Improving or Learning:
-* Tableau
-* R
-
-## Project Highlights
-
-## Previous Project Highlights
-__Tesla Stock NLP regression Project (CAPSTONE)__ | [Repo](https://github.com/tm4gic/Capstone_STCK_sentiment)
-
--🚗🔌🔋 Webscraped New York Times Articles involving Tesla Stock using the NYT API and BeautifulSoup from its IPO date to 2021
--Implemented Natural Language Processing sentiment tools to incorporate sentiment analysis into a classification regression problem
--Incorporated Elon Musk’s Tweets to explore additional sensitivity and relationships to stock price (Final model predicted TSLA price movement with a 64% accuracy
-
-
-__Movielens Recommendation System__ | [Repo](https://github.com/RedDragonfruit/MovieLens_Recommendation)
-
-🎥 Designed and implemented movie recommendation system to suggest new movies for users based on content-content and user-user based filtering algorithms (pairwise-distance & cosine similarity)
-
-__Telecommunication Firm’s Customer Churn__ | [Repo](https://github.com/arthursjkim/SyriaTel_Customer_Churn)
-
-📱 Determined which customers of a telecommunication firm are likely to churn and provided recommendations to mitigate churn
+### Education
+- M.S. Analytics (DS specialization), Georgia Tech
+- B.A. Economics, Math minor, NYU
